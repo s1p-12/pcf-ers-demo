@@ -3,4 +3,4 @@ applications:
 - name: pcf-ers-demo-test
   memory: 1024MB
   instances: 1
-  host: bb-pcf-ers-demo-test
+  host: s1p-12-pcf-ers-demo-test

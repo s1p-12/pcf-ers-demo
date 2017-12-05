@@ -3,4 +3,4 @@ applications:
 - name: pcf-ers-demo-dev
   memory: 1024MB
   instances: 1
-  host: bb-pcf-ers-demo-dev
+  host: s1p-12-pcf-ers-demo-dev
